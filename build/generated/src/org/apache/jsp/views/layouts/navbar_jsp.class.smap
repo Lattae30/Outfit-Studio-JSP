@@ -1,0 +1,10 @@
+SMAP
+navbar_jsp.java
+JSP
+*S JSP
+*F
++ 0 navbar.jsp
+views/layouts/navbar.jsp
+*L
+1,23:44
+*E

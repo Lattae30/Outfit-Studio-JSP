@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/editclothes.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/deleteUsers.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/home.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/loginServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/layouts/scripts2.js</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/logoutServelet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/usersServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/deleteClothes.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/layouts/navbar.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/addUsers.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Controller/ProductEditionController.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Model/ProductEditionModel.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/login.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/clothesServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/editUsers.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/editionServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Model/ProductModel.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Query/ProductQuery.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/layouts/scripts.js</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/editusers.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/addClothes.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Controller/ProductController.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/editEdition.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/layouts/scripts3.js</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/edition.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/layouts/head.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Helper/StringHelper.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/addedition.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/addEdition.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/editEdition.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Controller/BaseController.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/users.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/homeServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Config/DBConnection.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/addclothes.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Servlet/editServlet.java</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/clothes.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/web/views/addusers.jsp</file>
+            <file>file:/D:/Semester%202/CCIT%20Class/Tahap%202/Project%202%20(Tahap%202)/OutfitStudio/src/java/Controller/UserController.java</file>
+        </group>
+    </open-files>
+</project-private>

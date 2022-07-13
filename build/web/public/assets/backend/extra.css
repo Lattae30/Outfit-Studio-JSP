@@ -1,0 +1,333 @@
+.catalog-title {
+    margin-top: -10px;
+    padding-top: 0.5rem;
+    font-size: 2rem;
+    color: #688ea4;
+}
+.catalog-subtitle {
+    margin-top: -20px;
+    margin-bottom: 1px;
+    padding-top: 0.5rem;
+    font-size: 1.5rem;
+    color: #688ea4;
+}
+.cloth-space{
+    border-radius: 10px;
+    max-width: 30rem;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 10px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.about-section {
+    padding: 10px;
+    text-align: center;
+    background-color: whitesmoke;
+    color: black;
+    font-size: 1.5rem;
+    padding-top: 100px;
+    margin-left: 50px;
+    margin-right: 1000px;
+    margin: auto;
+  }
+.team{
+    padding: 0;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #688ea4;
+    color: white;
+    font-size: 1.5rem;
+    max-width:15%;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.contact{
+        padding-top:0;
+        border-radius: 10px;
+        text-align: center;
+        background-color: #688ea4;
+        color: white;
+        font-size: 1.5rem;
+        max-width:15%;
+        margin: auto;
+        margin-top: 70px;
+}
+.card {
+    border-radius: 10px;
+    max-width: 25rem;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0 10px 18px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  } 
+  .card2 {
+    border-radius: 10px;
+    max-width: 80rem;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    background-color: white;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+  } 
+.creator-title {
+    color: grey;
+  }
+.container {
+    padding: 0 16px;
+  }
+.button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding:8px;
+    color: white;
+    background-color: #688ea4;
+    text-align: center;
+    cursor: pointer;
+    width: 30%;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+nav {
+    background-color: #688ea4;
+    width: 100%;
+    float: left;
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    margin-top: -25px;
+    padding: 20px 16px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+li a:hover {
+    background-color:cadetblue;
+}
+.slider-wrapper {
+    margin: auto;
+    padding-top: 40px;
+    }
+.text-center{
+    text-align: center;
+}
+
+.card-image {
+    margin: auto;
+    border-radius: 15px;
+    width: 90%;
+    padding: 5px;
+    margin-top: 40px;
+}
+.cloth-image{
+    margin:auto;
+    border-radius: 10px;
+    width: 70%;
+    padding: 5px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 15px;
+}
+.text-center {
+    text-align: center;
+}
+
+.btn-male {
+    margin:auto;
+    background-color: #688ea4;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 53px;
+    border-radius: 10px;
+    border: 1px solid #688ea4;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    width: 50%;
+}
+
+.btn-female {
+    margin:auto;
+    background-color: #688ea4;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 20px 35px;
+    border-radius: 10px;
+    border: 1px solid #688ea4;
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: none;
+    margin-left: 5px;
+    width: 40%;
+}
+
+button:hover{
+    background-color:darkgrey;
+}
+
+.padding-top {
+    padding-top: 15px;
+}
+.margin-top{
+    margin-top:-20px;
+}
+.footer {
+    position: static;
+    padding: 3px;
+    margin-top: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#688ea4;
+    color: white;
+    text-align: center;
+}
+.margin-left-1{
+    margin-left: -12px;
+}
+.margin-right{
+    margin-right: -85px;
+}
+.opacity{
+    opacity: 85%;
+}
+.sidenav {
+  background-color: #688ea4;
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+
+.sidenav a:hover {
+  color: darkgrey;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  color: white;
+}
+.header{
+    background-color: #688ea4;
+    color: white; 
+    width:100%; 
+    padding:20px;
+    width: 100%;
+    position: fixed;
+}
+.search{
+    border-radius: 3px;
+    border-color: gainsboro;
+    margin-left: 120px;
+    padding: 10px;
+    width: 65%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+.button-search{
+    border-radius: 3px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    border: 1px solid #688ea4;
+    background-color: #688ea4;
+    text-align: center;
+    cursor:pointer;
+}
+.button-edit{
+    border-radius: 3px;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid cadetblue;
+    background-color: cadetblue;
+    text-align: center;
+    cursor:pointer;
+}
+.button-delete{
+    border-radius: 3px;
+    padding: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px solid red;
+    background-color: red;
+    text-align: center;
+    cursor:pointer;
+}
+
+table {
+  border-collapse: collapse; /*Menghilangkan garis pembatas antar sel*/
+  width: 85%;
+  overflow-x:auto;
+  margin-top: 50px;
+  margin-left: 115px;
+}
+
+th, td {
+  text-align: left;
+  padding: 11px;
+}
+
+td, tr:nth-child(even) { /*buat menyeleksi elemen yang diberikan warna stripped. di tble ini elemen yang diberi warna stripped merupakan elemen ganjil, karena nilai di dalam kurung terlulis even.*/
+  background-color: #dce6ef;
+}
+
+td{
+    font-size: 1rem;
+    opacity: 70%;
+}
+
+th{
+    font-size: 1.1rem;
+    
+}
+.add-input{
+    margin-top: 15px; 
+    margin-bottom: 15px;
+}
+.label-input{
+    margin-left: 121px;
+}
